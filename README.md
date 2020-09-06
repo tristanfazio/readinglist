@@ -28,4 +28,6 @@ Incomplete or fute planned books will have a
 
 ## Game Design
 
+- [ ] [A Theory of Fun](books/ATheoryofFun.md)
+
 ## Other
