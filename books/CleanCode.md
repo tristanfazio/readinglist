@@ -27,8 +27,7 @@ Quote hits a something about where I want to go with my career, I want to care a
 
 ***Chapter 17, Page 285***
 
-[Code Smells and Heuristics](###Chapter-17:-Code-Smells-and-Heuristics*)
-
+[Code Smells and Heuristics](#chapter-17-code-smells-and-heuristics)
 
 - A comprehensive list of things to look out for and avoid during my career. Useful for reviewing PR's and incremental refactoring tasks.
 
