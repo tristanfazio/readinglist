@@ -18,8 +18,8 @@ Incomplete or fute planned books will have a
 ## Professionalism 
 
 - [x] [Apprentiship Patterns](books/ApprentishipPatterns.md)
-- [ ] [Clean Code](books/CleanCode.md)
- - [ ] [The Clean Coder - Robert C.Martin](books/TheCleanCoder.md)
+- [x] [Clean Code](books/CleanCode.md)
+ - [x] [The Clean Coder - Robert C.Martin](books/TheCleanCoder.md)
 
 ## Design Patterns
 
