@@ -65,46 +65,46 @@ Alphabetical Order
 
 ---
 
-[A Different Road:](#a-different-road:) 
+[A Different Road:](#a-different-road) 
 *You have discovered that the direction you want to go is different from
 the path toward software craftsmanship.*
 
-[Be the Worst:](#be-the-worst:)
+[Be the Worst:](#be-the-worst)
 *Your learning has decelerated as you’ve quickly surpassed everyone around
 you.*
 
-[Breakable Toys:](#breakable-toys:)
+[Breakable Toys:](#breakable-toys)
 *You work in an environment that does not allow for failure, yet you need
 a safe place to learn.*
 
-[Concrete Skills:](#concrete-skills:)
+[Concrete Skills:](#concrete-skills)
 *You want to work on a great development team, yet you have very little
 practical experience.*
 
-[Confront Your Ignorance:](#confront-your-ignorance:) 
+[Confront Your Ignorance:](#confront-your-ignorance) 
 *You have discovered wide gaps in your knowledge, and your
 work requires that you understand these topics.*
 
-[Craft over Art:](#craft-your-art:)
+[Craft over Art:](#craft-your-art)
 *You need to deliver a solution for your customer, and you can choose from
 a simpler, proven solution or take the opportunity to create something novel and fantastic.*
 
-[Create Feedback Loops:](#create-feedback-loops:)
+[Create Feedback Loops:](#create-feedback-loops)
 *You can’t tell if you’re suffering from “unconscious
 incompetence.”*
 
-[Dig Deeper:](#dig-deeper:)
+[Dig Deeper:](#dig-deeper)
 *You have only superficial knowledge of many tools, technologies, and
 techniques and keep hitting roadblocks as you try to tackle tougher problems.*
 
-[Draw Your Own Map:](#draw-your-own-map:)
+[Draw Your Own Map:](#draw-your-own-map)
 *None of the career paths that your employer provides is a fit for you.*
 
-[Expand Your Bandwidth:](#expand-your-bandwidth:)
+[Expand Your Bandwidth:](#expand-your-bandwidth)
 *Your understanding of software development is narrow and
 focused only on the low-level details of what you’ve worked on in your day job.*
 
-[Expose Your Ignorance:](#expose-your-ignorance:)
+[Expose Your Ignorance:](#expose-your-ignorance)
 *You have discovered wide gaps in your knowledge and are afraid
 that people will think that you don’t know what you’re doing.*
 
@@ -124,7 +124,7 @@ seems at odds with your aspirations.*
 *Your learning skills have enhanced your successes, but your failures
 and weaknesses remain.*
 
-[Nurture Your Passion:](#nurture-your-passion:)
+[Nurture Your Passion:](#nurture-your-passion)
 *You work in an environment that stifles your passion for the craft.*
 
 [Practice, Practice, Practice: ](#practice,-practice,-practice)
@@ -156,7 +156,7 @@ of your ignorance.*
 *You have the feeling that there are superior techniques and approaches
 to the craft that are eluding you.*
 
-[Share What You Learn: ](#share-what-you-learn:)
+[Share What You Learn: ](#share-what-you-learn)
 *You are frustrated that the people around you are not learning as
 quickly as you are.*
 
