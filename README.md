@@ -17,14 +17,14 @@ Incomplete or fute planned books will have a
 
 ## Professionalism 
 
-- [x] [Apprentiship Patterns](books/ApprentishipPatterns.md)
+- [x] [Apprenticeship Patterns](books/ApprenticeshipPatterns.md)
 - [x] [Clean Code](books/CleanCode.md)
  - [x] [The Clean Coder - Robert C.Martin](books/TheCleanCoder.md)
 
 ## Design Patterns
 
-- [ ] [Head First Design Patterns - ](books/HeadFirstDesignPatterns.md)
-- [ ] [Test Driven Design](books/TestDrivenDesign.md)
+- [x] [Head First Design Patterns - ](books/HeadFirstDesignPatterns.md)
+- [x] [Test Driven Design](books/TestDrivenDesign.md)
 
 ## Game Design
 
