@@ -51,9 +51,11 @@ You're at a point where you have moved forward, no move the industry/others forw
 Impact/teach others
 
 ***What is apprenticeship?***
+
 The method to learn how to be a professional software engineer
 
 ***What is an apprenticeship pattern?***
+
 Interconnected set of solutions to common problems in a specific domain.
 
 ---
